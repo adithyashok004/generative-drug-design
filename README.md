@@ -81,33 +81,7 @@ Final Candidate Molecules
 
 ---
 
-## Screenshots
 
-### Dataset Preview
-
-*(Add Screenshot)*
-
-### Data Preprocessing
-
-*(Add Screenshot)*
-
-### Generated Molecules
-
-*(Add Screenshot)*
-
-### Drug-Likeness Results
-
-*(Add Screenshot)*
-
-### Toxicity Prediction
-
-*(Add Screenshot)*
-
-### Final Output
-
-*(Add Screenshot)*
-
----
 
 ## Installation
 
