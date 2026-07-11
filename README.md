@@ -151,5 +151,3 @@ pip install -r requirements.txt
 - AI-assisted pharmaceutical research
 
 ---
-
-⭐ If you found this project useful, consider giving it a star.
